@@ -1,0 +1,3 @@
+--editable ./async-solipsism
+pytest-aiohttp
+pytest-mock
